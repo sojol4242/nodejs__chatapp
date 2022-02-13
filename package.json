@@ -1,0 +1,19 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "Md Moniruzzaman Sojol with LWS ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sojol4242/nodejs__chatapp.git"
+  },
+  "author": "@sojol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sojol4242/nodejs__chatapp/issues"
+  },
+  "homepage": "https://github.com/sojol4242/nodejs__chatapp#readme"
+}
