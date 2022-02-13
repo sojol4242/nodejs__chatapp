@@ -7,4 +7,4 @@ next();
 
 }
 
-module.exports ={decorateHtmlResponse}
+module.exports = decorateHtmlResponse;
