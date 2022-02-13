@@ -1,4 +1,4 @@
-[![Youtube][youtube-shield]][youtube-url]
+ 
 [![Facebook][facebook-shield]][facebook-url]
  
 [![LinkedIn][linkedin-shield]][linkedin-url]
